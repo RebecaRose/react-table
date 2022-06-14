@@ -1,10 +1,12 @@
 {
-  "name": "react-table",
-  "version": "0.1.0",
+  "name": "@rebecarose/react-table",
+  "version": "0.1.1",
+  "description": "React table component",
   "repository": {
     "type": "git",
     "url": "https://github.com/RebecaRose/react-table.git"
   },
+  "homepage": "https://rebecarose.github.io/react-table",
   "author": "Rebeca Rose",
   "license": "MIT",
   "main": "dist/cjs/index.js",
