@@ -38,12 +38,7 @@ export const Tooltip = (props: TooltipProps) => {
 
     return (
         <StyledTooltip
-            align={props.align}
-            showOn={props.showOn}
-            show={props.show}
-            id={props.id}
-            ref={props.ref}
-            style={props.style}
+            {...props}
         >
             {props.children}
             <TooltipText

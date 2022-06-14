@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { SelectProps } from '../table/table.types';
+import { SelectProps } from './select.types';
 import {
     StyledOption,
     StyledSelect,
